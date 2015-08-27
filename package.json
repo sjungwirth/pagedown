@@ -6,5 +6,5 @@
     "keywords": ["markdown"],
     "license": "MIT",
     "files": ["Markdown.Converter.js", "Markdown.Sanitizer.js", "node-pagedown.js"],
-    "main": "node-pagedown.js",
+    "main": "node-pagedown.js"
 }
